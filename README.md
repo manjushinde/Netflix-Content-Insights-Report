@@ -75,7 +75,7 @@ Without visual insights, **decision-making** in marketing and production strateg
 ---
 
 ## 📷 Dashboard Preview
-<img width="984" height="548" alt="image" src="https://github.com/user-attachments/assets/acdced3e-ef04-48b3-aca9-5640fc84a3ff" />
+<img width="1310" height="737" alt="image" src="https://github.com/user-attachments/assets/3709ea41-e841-4ad0-995d-1fff3d449dda" />
 
 
 ---
@@ -92,10 +92,3 @@ Without visual insights, **decision-making** in marketing and production strateg
 This project is for **educational purposes only** and is **not affiliated with Netflix**.
 
 ---
-
-💼 *Created by [Your Name]*  
-📧 Contact: [your.email@example.com]  
-🔗 LinkedIn: [Your LinkedIn Profile]
-
-
-Dashboard Overview
