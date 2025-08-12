@@ -75,7 +75,8 @@ Without visual insights, **decision-making** in marketing and production strateg
 ---
 
 ## 📷 Dashboard Preview
-*(Add your dashboard screenshot here)*  
+<img width="984" height="548" alt="image" src="https://github.com/user-attachments/assets/acdced3e-ef04-48b3-aca9-5640fc84a3ff" />
+
 
 ---
 
