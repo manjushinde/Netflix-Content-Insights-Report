@@ -87,8 +87,3 @@ Without visual insights, **decision-making** in marketing and production strateg
 4. 🎯 Use filters for year, genre, and type.  
 
 ---
-
-## 📜 License
-This project is for **educational purposes only** and is **not affiliated with Netflix**.
-
----
